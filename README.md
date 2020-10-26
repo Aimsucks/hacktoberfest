@@ -1,2 +1,2 @@
 # hacktoberfest
-Abusing the system
+~~Abusing~~ the system
